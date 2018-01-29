@@ -26,3 +26,4 @@
 #### Deployed Link
 https://protected-citadel-61834.herokuapp.com/
 #### Framework of choice
+React
